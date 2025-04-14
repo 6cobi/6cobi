@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student at Fordham University with a strong foundation in software engineering and distributed systems. Experienced in building scalable backend services, ETL pipelines, and fault-tolerant systems. Passionate about open source, cloud technologies, and solving complex engineering challenges.
+Hi! I'm a Computer Science student at Fordham University with a strong foundation in software engineering and distributed systems. Experienced in building scalable backend services, ETL pipelines, and fault-tolerant systems. Passionate about open source, cloud technologies, and solving complex engineering challenges.
 
 - 🔭 I'm currently working on **open source dWeb apps**
 - 🌱 I'm currently learning **web protocols**
