@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:233lhz@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6cobi/)
 
-## 👋 Welcome to my GitHub!
+## 👋 Welcome to my GitHub
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;Distributed+Systems+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
